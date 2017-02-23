@@ -1,0 +1,11 @@
+{
+  "name": "coffee-script",
+  "version": "1.0.0",
+  "description": "CoffeeScript gup for coffee-loader",
+  "author": "Sergey Smirnov <sms-system@mail.ru>",
+  "private": true,
+  "dependencies": {
+    "coffeescript": "^2.0.0-alpha1"
+  },
+  "license": "MIT"
+}
